@@ -53,6 +53,7 @@ int main() {
     std::cout << "Hours Worked:  " << std::fixed << std::setprecision(2) << hoursWorked << std::endl;
     std::cout << "Total Pay:     $" << std::fixed << std::setprecision(2) << totalPay << std::endl;
     std::cout << "--------------------" << std::endl;
+     std::cout << "--------------------" << std::endl;
 
     return 0;
 }
